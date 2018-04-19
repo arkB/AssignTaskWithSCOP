@@ -14,6 +14,8 @@ Q. You assign task three works 0, 1, 2 to three workers A, B, C.The cost table o
 |B | 7 | 15 | 12 |
 |C | 25 | 10 | 13 |
 
+What is the task assignment that minimizes the total cost?
+
 # Requirement
 
 * Ubuntu 16.04
