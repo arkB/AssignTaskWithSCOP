@@ -31,7 +31,12 @@ Download SCOP for Linux [here](http://logopt.com/scop/SCOPtrialVersionLinux.zip)
 Extract zip and copy scop and scop.py files and paste the Python3.6 installation directory.
 
 ```:Terminal
+cd /home/(Username)/anaconda3/envs/py36/lib/python3.6
 sudo chmod u+x scop
+```
+
+```
+sudo vi /home/(Username)/anaconda3/envs/py36/lib/python3.6/scop.py
 ```
 
 ```:scop.py
