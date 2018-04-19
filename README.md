@@ -19,7 +19,7 @@ What is the task assignment that minimizes the total cost?
 # Requirement
 
 * Ubuntu 16.04
-* Python 3.6
+* Python 3.6(Anaconda virtual environment which named py36)
 * [SCOP for Linux](http://logopt.com/scop.htm)
 
 # Usage
